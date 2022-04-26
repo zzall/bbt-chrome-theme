@@ -1,0 +1,46 @@
+{
+  "name": "Kylo Ren Dark",
+  "manifest_version": 2,
+  "description": "Merging of two themes: Kylo Ren by Leonerd20 from themebeta.com; and Morpheon Dark by bean007",
+  "theme": {
+    "colors": {
+      "frame": [
+        71,
+        105,
+        91
+      ],
+      "toolbar": [
+        207,
+        221,
+        192
+      ],
+      "ntp_text": [
+        20,
+        40,
+        0
+      ],
+      "ntp_link": [
+        36,
+        70,
+        0
+      ],
+      "ntp_section": [
+        207,
+        221,
+        192
+      ],
+      "button_background": [
+        255,
+        255,
+        255
+      ]
+    },
+    "images" : {
+      "theme_frame_overlay" : "images/bbt.png",
+      "theme_ntp_background" : "images/bbt4.png"
+    },
+    "properties": {},
+    "tints": {}
+  },
+  "version": "1"
+}

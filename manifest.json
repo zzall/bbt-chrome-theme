@@ -1,7 +1,7 @@
 {
-  "name": "Kylo Ren Dark",
+  "name": "bbt chrome theme",
   "manifest_version": 2,
-  "description": "Merging of two themes: Kylo Ren by Leonerd20 from themebeta.com; and Morpheon Dark by bean007",
+  "description": "bbt chrome theme",
   "theme": {
     "colors": {
       "frame": [
